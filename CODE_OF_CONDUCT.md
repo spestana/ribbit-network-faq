@@ -15,7 +15,7 @@ Members of the Ribbit Network community pledge to act and interact in ways that 
 
 This Code of Conduct applies within all Ribbit Network community spaces, and also applies when an individual is officially representing the community in public spaces. Examples of representing our community include using an official e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event.
 
-## Our Standards
+## Standards
 
 We expect Ribbit Network community members to act in ways that support a collaborative and constructive working and learning community. 
 
